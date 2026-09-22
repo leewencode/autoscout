@@ -1,7 +1,7 @@
-# AutoScout24 Vehicle Valuation & Automated Pricing Engine
+# AutoScout Vehicle Valuation & Automated Pricing Engine
 
 ## Project Overview
-An end-to-end machine learning and data science pipeline built in Python to clean data, engineer features, and predict vehicle prices using the AutoScout24 dataset. It compares 14 regression models (including XGBoost, LightGBM, and CatBoost) and achieves an $R^2$ of 0.96.
+An end-to-end machine learning and data science pipeline built in Python to clean data, engineer features, and predict vehicle prices using the AutoScout dataset. It compares 14 regression models (including XGBoost, LightGBM, and CatBoost) and achieves an $R^2$ of 0.96.
 
 ## Notebook Workflow
 1. **Data Cleaning (`data_cleaning.ipynb`):** Ingests raw JSON data, parses strings, and cleans text attributes.
